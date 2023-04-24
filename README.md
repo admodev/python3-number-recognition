@@ -1,0 +1,3 @@
+# NumRecog
+
+Number recognition application.
